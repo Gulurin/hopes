@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "source/fonts/crooker.otf",
+      "sha1": "af47795d00549005e5ce9644d5debde6659effdc"
+    },
+    {
+      "path": "source/fonts/goosberry_version_02.otf",
+      "sha1": "780c51f2a2c2573a9dcb17ac48092779fc11e21f"
+    },
+    {
+      "path": "source/fonts/MADE Waffle Slab PERSONAL USE.otf",
+      "sha1": "8f3567fd61fbeffed313c3ebe25b0528858f5508"
+    },
+    {
+      "path": "source/fonts/MADE Waffle Soft PERSONAL USE.otf",
+      "sha1": "c3992a762b2b6ffad6ab10f123070f5414e4cd22"
+    },
+    {
+      "path": "source/fonts/MursMemes-WideDark.ttf",
+      "sha1": "5fbfd482e68eb2a6838b0d965e8c27a40dfde902"
+    },
+    {
+      "path": "source/fonts/Ramona-Bold.ttf",
+      "sha1": "c4cf2c31869f56c19f7291bb4f47be4eb4c2416c"
+    },
+    {
+      "path": "source/fonts/Ramona-Light.ttf",
+      "sha1": "ac219c1242020bec456b591360fab2dbd0ba3c36"
+    }
+  ]
+}

@@ -14,6 +14,13 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-hopes-hopesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-hopes-hopesTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		4C69A90536B74EF687406ADB /* MursMemes-WideDark.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E5258AE3B26943D48250C5AC /* MursMemes-WideDark.ttf */; };
+		BB34DCEAD3B44D0D96BD6F76 /* crooker.otf in Resources */ = {isa = PBXBuildFile; fileRef = B90E95E3EAEF40DA98E06DEE /* crooker.otf */; };
+		0E544556B9F74A849BC1FD34 /* goosberry_version_02.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3442AE4B53F84FD89B7951CF /* goosberry_version_02.otf */; };
+		D45999A0209244D490583816 /* MADE Waffle Slab PERSONAL USE.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0AC41A8A1CA8496CBE8125D8 /* MADE Waffle Slab PERSONAL USE.otf */; };
+		1EE05B3134474B1DAB7C990B /* MADE Waffle Soft PERSONAL USE.otf in Resources */ = {isa = PBXBuildFile; fileRef = D8EEBB36C3BD4B98B379FBE3 /* MADE Waffle Soft PERSONAL USE.otf */; };
+		49A8C2BDB68D43A198961D87 /* Ramona-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC4047EC6E9742858866A8F0 /* Ramona-Bold.ttf */; };
+		786289C2B1604216A3436400 /* Ramona-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E327F3BBD3D430699D0B68C /* Ramona-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +43,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = hopes/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = hopes/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = hopes/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = hopes/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = hopes/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-hopes-hopesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-hopes-hopesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-hopes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopes.debug.xcconfig"; path = "Target Support Files/Pods-hopes/Pods-hopes.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-hopes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopes.release.xcconfig"; path = "Target Support Files/Pods-hopes/Pods-hopes.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +52,13 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = hopes/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-hopes-hopesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopes-hopesTests.release.xcconfig"; path = "Target Support Files/Pods-hopes-hopesTests/Pods-hopes-hopesTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		E5258AE3B26943D48250C5AC /* MursMemes-WideDark.ttf */ = {isa = PBXFileReference; name = "MursMemes-WideDark.ttf"; path = "../source/fonts/MursMemes-WideDark.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B90E95E3EAEF40DA98E06DEE /* crooker.otf */ = {isa = PBXFileReference; name = "crooker.otf"; path = "../source/fonts/crooker.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3442AE4B53F84FD89B7951CF /* goosberry_version_02.otf */ = {isa = PBXFileReference; name = "goosberry_version_02.otf"; path = "../source/fonts/goosberry_version_02.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0AC41A8A1CA8496CBE8125D8 /* MADE Waffle Slab PERSONAL USE.otf */ = {isa = PBXFileReference; name = "MADE Waffle Slab PERSONAL USE.otf"; path = "../source/fonts/MADE Waffle Slab PERSONAL USE.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8EEBB36C3BD4B98B379FBE3 /* MADE Waffle Soft PERSONAL USE.otf */ = {isa = PBXFileReference; name = "MADE Waffle Soft PERSONAL USE.otf"; path = "../source/fonts/MADE Waffle Soft PERSONAL USE.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BC4047EC6E9742858866A8F0 /* Ramona-Bold.ttf */ = {isa = PBXFileReference; name = "Ramona-Bold.ttf"; path = "../source/fonts/Ramona-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E327F3BBD3D430699D0B68C /* Ramona-Light.ttf */ = {isa = PBXFileReference; name = "Ramona-Light.ttf"; path = "../source/fonts/Ramona-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +138,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				26523EE42C554E71ADF4189E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +164,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		26523EE42C554E71ADF4189E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				E5258AE3B26943D48250C5AC /* MursMemes-WideDark.ttf */,
+				B90E95E3EAEF40DA98E06DEE /* crooker.otf */,
+				3442AE4B53F84FD89B7951CF /* goosberry_version_02.otf */,
+				0AC41A8A1CA8496CBE8125D8 /* MADE Waffle Slab PERSONAL USE.otf */,
+				D8EEBB36C3BD4B98B379FBE3 /* MADE Waffle Soft PERSONAL USE.otf */,
+				BC4047EC6E9742858866A8F0 /* Ramona-Bold.ttf */,
+				9E327F3BBD3D430699D0B68C /* Ramona-Light.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +275,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				4C69A90536B74EF687406ADB /* MursMemes-WideDark.ttf in Resources */,
+				BB34DCEAD3B44D0D96BD6F76 /* crooker.otf in Resources */,
+				0E544556B9F74A849BC1FD34 /* goosberry_version_02.otf in Resources */,
+				D45999A0209244D490583816 /* MADE Waffle Slab PERSONAL USE.otf in Resources */,
+				1EE05B3134474B1DAB7C990B /* MADE Waffle Soft PERSONAL USE.otf in Resources */,
+				49A8C2BDB68D43A198961D87 /* Ramona-Bold.ttf in Resources */,
+				786289C2B1604216A3436400 /* Ramona-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
